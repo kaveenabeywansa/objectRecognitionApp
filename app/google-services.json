@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "53039445246",
+    "firebase_url": "https://textrecognitionapp-2b859.firebaseio.com",
+    "project_id": "textrecognitionapp-2b859",
+    "storage_bucket": "textrecognitionapp-2b859.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:53039445246:android:c40c52d9acc6facf",
+        "android_client_info": {
+          "package_name": "com.example.hppav.objectrecognition"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "53039445246-76trlob2k6l56abnk3ut4assl1lm2mqe.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hppav.objectrecognition",
+            "certificate_hash": "9b007d5232808b79a63a3f0741a8a2118b5ff468"
+          }
+        },
+        {
+          "client_id": "53039445246-r1mna42a2vl1ok81ha0ep06o1qg8gr8r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMRCy8WAiQBGX9OFiXR0Jz5jRooljMDPU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "53039445246-r1mna42a2vl1ok81ha0ep06o1qg8gr8r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:53039445246:android:d0a9797293c738cb",
+        "android_client_info": {
+          "package_name": "com.example.hppav.textrecognitionapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "53039445246-8dv6f7gi1jfnaqkpn3s2bauf6n5f43gh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hppav.textrecognitionapp",
+            "certificate_hash": "9b007d5232808b79a63a3f0741a8a2118b5ff468"
+          }
+        },
+        {
+          "client_id": "53039445246-r1mna42a2vl1ok81ha0ep06o1qg8gr8r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMRCy8WAiQBGX9OFiXR0Jz5jRooljMDPU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "53039445246-r1mna42a2vl1ok81ha0ep06o1qg8gr8r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
